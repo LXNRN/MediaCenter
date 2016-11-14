@@ -2,7 +2,9 @@
 
 ## Demande
 
-Concevoir l'interface d'un Media Center permettant de parcourir, rechercher et contrôler un ensemble des médias (films, séries, albums, etc.) contenus dans un ou plusieurs appareils connectés au même réseau.
+Concevoir l'interface d'une application "client" permettant de parcourir et contrôler les médias (films, séries, photos, etc.) contenus dans l'ensemble des serveurs UPnP connectés au réseau local.
+
+Document de lancement : [https://docs.google.com/presentation/d/1fzUFK_b5dqxeuKQCXvX-zp25Tzpx9WDMp5IWAbBDWdo/edit](https://docs.google.com/presentation/d/1fzUFK_b5dqxeuKQCXvX-zp25Tzpx9WDMp5IWAbBDWdo/edit)
 
 ## Planning
 
@@ -33,7 +35,7 @@ Concevoir l'interface d'un Media Center permettant de parcourir, rechercher et c
 * 13h-17h – [projet MediaCenter] / liste fonctionnalités/composants + architecture + premiers sketchs
 
 **Jeudi 10 novembre**
-* 8h-12h – [technologie web] / wireframes
+* 8h-12h – [projet MediaCenter] / wireframes
 * 13h-17h – [projet MediaCenter] / design graphique + prototypage
 
 **Lundi 14 novembre**
@@ -86,7 +88,8 @@ Concevoir l'interface d'un Media Center permettant de parcourir, rechercher et c
     * Mettre en forme l’interface en CSS
     * Transformer l'interface avec jQuery
     * Connaître et mettre en oeuvre un framework CSS : Bootstrap
-    * Connaître Sass
+    * Utiliser Sass
+    * Connaître AngularJS
   * Workflow
     * Gérer le développement d'une application sur GitHub (contrôle de version)
     * Utiliser la console js et les outils de développement du navigateur
